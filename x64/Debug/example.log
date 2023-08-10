@@ -1,0 +1,4 @@
+﻿  example.cpp
+C:\Users\mafassi\Desktop\csv format-20230601T073237Z-001\example fork\example\example.cpp(42,16): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\mafassi\Desktop\csv format-20230601T073237Z-001\example fork\example\example.cpp(46,17): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+  example.vcxproj -> C:\Users\mafassi\Desktop\csv format-20230601T073237Z-001\example fork\example\x64\Debug\example.exe
